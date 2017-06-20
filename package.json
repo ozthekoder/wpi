@@ -1,6 +1,6 @@
 {
   "name": "wpi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wiringpi wrapper",
   "main": "index.js",
   "scripts": {
