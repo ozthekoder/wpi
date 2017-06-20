@@ -1,0 +1,31 @@
+{
+  "name": "wpi",
+  "version": "0.0.1",
+  "description": "wiringpi wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozthekoder/wpi.git"
+  },
+  "keywords": [
+    "wiring-pi",
+    "wiringpi",
+    "gpio",
+    "raspberry",
+    "pi",
+    "wpi"
+  ],
+  "author": "Osman Ozdemir <oozdemir2704@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozthekoder/wpi/issues"
+  },
+  "homepage": "https://github.com/ozthekoder/wpi#readme",
+  "dependencies": {
+    "nan": "^2.6.2",
+    "node-gyp": "^3.6.2"
+  }
+}
